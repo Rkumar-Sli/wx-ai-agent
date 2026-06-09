@@ -1,2 +1,2 @@
-# wx-ai-agent
+# Chat
 repository for wx ai agent
